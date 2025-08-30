@@ -1,0 +1,10 @@
+.grid { 
+    display: grid;
+    gap: 1 rem;
+}
+
+.row { 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
